@@ -1,1 +1,5 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_004,cau_hoi_mo,"Xe đạp điện / xe máy điện: bicycle hay motorbike?","Có bàn đạp cơ học và khung thanh mảnh gán bicycle; không bàn đạp, sàn để chân phẳng gán motorbike","Mục 2: Phân loại xe 2 bánh điện dựa vào bàn đạp và sàn chân",v1.1
+CAL-02,img_013,loi_may,"YOLO26 nhầm tuk-tuk và xe ba gác thành car/truck","Mọi xe ba bánh (tuk-tuk, xe lam, xích lô, ba gác) dù có mui hay cabin đều gán three_wheeler","Mục 2 & Mục 4.1.4: Phân biệt three_wheeler với car và truck",v1.1
+CAL-03,img_020,can_review,"Cụm xe máy đỗ dày đặc bị che khuất ở hậu cảnh","Xe ở tiền cảnh vẽ từng xe; cụm xe ở xa bị che khuất cao < 20px gán ignore_region","Mục 4.1.6: Ngưỡng < 20px cho đám đông gom ignore_region",v1.1
+CAL-04,img_028,bay_lot,"Bẫy missing bị lọt do người duyệt bị neo vào nhãn máy có sẵn","Bắt buộc thực hiện Bước 0: ẩn nhãn máy 15s để đếm nhẩm vật trước khi bật nhãn máy","Mục 5: Checklist Bước 0 chống thiên kiến tự động hóa",v1.1

@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,phucnt31,Ca khó can_review: tuk-tuk đã gán three_wheeler đúng quy tắc
+img_004.jpg,,khong,phucnt31,Đủ nhãn các đối tượng xe máy và người
+img_008.jpg,,khong,phucnt31,Đúng lớp và bounding box ôm sát
+img_014.jpg,162,sai_vi_tri_kich_thuoc,phucnt31,Box người ở xa cao 19.3px < 20px nên gom ignore_region
+img_017.jpg,,khong,phucnt31,Tuk-tuk và người đi đường gán đúng phân loại
+img_033.jpg,,khong,phucnt31,Đã bắt và sửa box lỏng của xe con (bẫy loose)
