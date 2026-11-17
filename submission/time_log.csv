@@ -1,5 +1,3 @@
 step,images,minutes,note
-0,img_001,8
-1,img_012,5
-2,img_020,5,có tích can_review
-3,img_036,10
+gold_manual,4,28,"gán tay 4 ảnh (img_001: 8p, img_012: 5p, img_020: 5p - có tích review, img_036: 10p)"
+batch_review,24,61,"review 24 ảnh (img_003: 5p, img_004: 1p, img_005: 1p, img_006: 3p, img_008: 1p, img_009: 1p, img_010: 1p, img_013: 2p, img_014: 1p, img_017: 1p, img_018: 4p, img_021: 1p, img_022: 5p, img_023: 5p, img_024: 10p, img_025: 5p, img_026: 2p, img_027: 3p, img_028: 1p, img_029: 1p, img_031: 1p, img_033: 2p, img_034: 2p, img_035: 2p)"
